@@ -1,7 +1,9 @@
 # Money_Manage
-실행 결과
+implement in python/jupyter notebook
+
 ScreenShots
 -----------------
+
 1) 사용자1(다은) 등록 및 로그인 : 암호 중복 확인/ 3번 오류시 예외 처리
 ![KakaoTalk_20200619_142527073](https://user-images.githubusercontent.com/66946182/97826855-15f02100-1d06-11eb-9a90-b25cd4df5224.png)
 

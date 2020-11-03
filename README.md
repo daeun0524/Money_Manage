@@ -4,25 +4,25 @@ implement in python/jupyter notebook
 ScreenShots
 -----------------
 
-1) 사용자1(다은) 등록 및 로그인 : 암호 중복 확인/ 3번 오류시 예외 처리
+1)사용자1(다은) 등록 및 로그인 : 암호 중복 확인/ 3번 오류시 예외 처리
 
 <img src="https://user-images.githubusercontent.com/66946182/97826855-15f02100-1d06-11eb-9a90-b25cd4df5224.png" width="60%">
 
-2) 등록 되지 않은 사용자(하늘)가 로그인 시도할 경우와 사용자1(다은) 로그인 성공
+2)등록 되지 않은 사용자(하늘)가 로그인 시도할 경우와 사용자1(다은) 로그인 성공
 
 <img src="https://user-images.githubusercontent.com/66946182/97826883-24d6d380-1d06-11eb-9e8c-bf10faa27574.png" width="60%">
 
-3) 등록된 데이터가 없는 경우, 메뉴에 따른 예외 처리, 자산 관리 기능 시행
+3)등록된 데이터가 없는 경우, 메뉴에 따른 예외 처리, 자산 관리 기능 시행
 
 <img src="https://user-images.githubusercontent.com/66946182/97826884-26080080-1d06-11eb-9b00-5bc38b95d2ac.png" width="60%">
 
-4) 수입/지출의 여러 항목에 따라 용독기입장 데이터 입력
+4)수입/지출의 여러 항목에 따라 용독기입장 데이터 입력
 
 <img src="https://user-images.githubusercontent.com/66946182/97826885-26080080-1d06-11eb-8fa4-e384922516cc.png" width="60%">
 
 <img src="https://user-images.githubusercontent.com/66946182/97826886-26a09700-1d06-11eb-87a4-c88cf142cc3e.png" width="60%">
 
-5) 전체 데이터 조회한 결과(+ 자산 관리를 했으므로 자산관리 진행 상황 표시)
+5)전체 데이터 조회한 결과(+ 자산 관리를 했으므로 자산관리 진행 상황 표시)
 
 <img src="https://user-images.githubusercontent.com/66946182/97826887-27392d80-1d06-11eb-94b3-0586f5f22a4d.png" width="60%">
 
